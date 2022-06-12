@@ -1,0 +1,6 @@
+[0m2021.11.11 22:03:16 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala-Nix' .[0m
+[0m2021.11.11 22:03:20 INFO  time: initialize in 4.73s[0m
+[0m2021.11.11 22:03:23 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.11 22:03:23 WARN  no build tool detected in workspace '/home/runner/Scala-Nix'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.06.12 22:14:00 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/SelfassuredDelectablePort' .[0m
+[0m2022.06.12 22:14:13 INFO  time: initialize in 12s[0m

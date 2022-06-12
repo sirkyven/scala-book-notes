@@ -1,0 +1,11 @@
+compile = ["scalac", "-classpath", ".", "-d", ".", "main.scala"]
+run = ["scala", "-classpath", ".", "Main"]
+
+entrypoint = "Main.scala"
+
+[languages.scala]
+pattern = "**/*.scala"
+
+[languages.scala.languageServer]
+start = ["metals"]
+
